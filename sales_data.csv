@@ -1,0 +1,6 @@
+OrderID,Product,Category,Quantity,Price,City
+1,Laptop,Electronics,2,800,New York
+2,Phone,Electronics,3,600,Chicago
+3,Chair,Furniture,5,120,Los Angeles
+4,Table,Furniture,2,300,Chicago
+5,Headphones,Electronics,4,150,New York
